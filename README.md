@@ -16,22 +16,14 @@ Every token and protocol needs a clear website that communicates the vision, tok
 - **Tools:** Git, GitHub, VS Code
 - **Deployment:** Netlify, Vercel, GitHub Pages
 
-## Featured Work
-
-| Project | Description | Demo | Repository |
-|---------|-------------|------|------------|
-| **Aether Food** | Modern product website with clean layout and strong visual hierarchy | [Live Demo](#) | [GitHub](https://github.com/okiminan-code/Aether-Food) |
-| **Liliya Store** | Multi-page website focused on clear product presentation | [Live Demo](#) | [GitHub](https://github.com/okiminan-code/LILIYA-STORE) |
-| **Personal Portfolio** | Personal site showcasing development work | [Live Demo](#) | [GitHub](https://github.com/okiminan-code/Portofolio-Website) |
-
 ## Approach
 I prioritize clarity and structure.  
 Crypto projects fail communication when the website is messy or incomplete.  
 My goal is to deliver websites that make the project easy to understand in under 10 seconds.
 
 ## Contact
-- Email: *(your email)*
-- Telegram: *(your telegram)*
-- Twitter / X: *(your twitter)*
+- Email: *(okiminan@gmail.com)*
+- Telegram: *(@mikoinandika)*
+- Twitter / X: *(@__executionn)*
 
 ---
